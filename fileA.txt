@@ -1,0 +1,10 @@
+Ayman Nagy Ahmed Ali
+AymanNagy.Ahmed@gmail.com
+
+// after Peter Magdy Invited me to his repo 
+// received invitation Email and accepted it 
+// clone it ssh 
+git clone git@github.com:petermagdy94/lab1_peter.git
+// then add my changes
+
+
