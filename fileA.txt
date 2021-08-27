@@ -10,3 +10,42 @@ git clone git@github.com:petermagdy94/lab1_peter.git
 
 peter magdy added this change
 
+ayman Log
+
+git log  
+commit 6ba40d1a1af0ce40064d7289af0c7ef57e49c418 (HEAD -> master)
+Author: AymanNagyAhmed <AymanNagy.Ahmed@gmail.com>
+Date:   Fri Aug 27 23:18:08 2021 +0200
+
+    ayman added his steps
+
+:...skipping...
+commit 6ba40d1a1af0ce40064d7289af0c7ef57e49c418 (HEAD -> master)
+Author: AymanNagyAhmed <AymanNagy.Ahmed@gmail.com>
+Date:   Fri Aug 27 23:18:08 2021 +0200
+
+    ayman added his steps
+
+commit 2612a6157e0f248185f82743cb3dec3af745afd4 (origin/master, origin/HEAD)
+Author: PeterMagdy <petermagdy594@gmail.com>
+Date:   Fri Aug 27 23:06:20 2021 +0200
+
+    peter added steps file
+
+commit d646baf39b963f1dea20c76538a789ea943ed495
+Author: PeterMagdy <petermagdy594@gmail.com>
+Date:   Fri Aug 27 23:03:21 2021 +0200
+
+    peter added new changes
+
+commit 31c75fd20a5025e5f60c5819966c5ca06603df51
+Author: AymanNagyAhmed <AymanNagy.Ahmed@gmail.com>
+Date:   Fri Aug 27 22:59:26 2021 +0200
+
+    ayman added some steps
+
+commit 4ae5be703e4d6dbbce464719607884baeefd4a70
+Author: PeterMagdy <petermagdy594@gmail.com>
+Date:   Fri Aug 27 17:18:33 2021 +0200
+
+    adding first file
